@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Manohar! 👋  
 
-<!--
-**Manohar-1-2/Manohar-1-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** with a passion for building scalable applications, data engineering, and automating workflows. My experience spans across full-stack development, cloud-based solutions, and handling large-scale data processing.  
 
-Here are some ideas to get you started:
+## 🚀 What I Do  
+- **Full-Stack Development**: React.js, Angular, Tailwind CSS, Node.js, Express.js, FastAPI, .NET  
+- **Data Engineering**: ETL pipelines, distributed data processing,pyspark,databricks real-time data streaming  
+- **Cloud & Backend**: AWS,Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests  
+- Data engineering & processing 📊  
+- Web & backend development 🌐  
+- Cloud computing ☁️  
+- Open-source contributions 🔥  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+Always open to collaboration and new challenges! 🚀  
+
